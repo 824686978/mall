@@ -24,3 +24,8 @@ npm run test
 ```
 npm run lint
 ```
+
+### 技术栈
+```
+vue3 + vuex + vue-router + webpack + ES6 + Better-Scroll + axios
+```
